@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 **etc.**
 
+## 💪 我擅长什么？
+
+- 🖊 平面设计
+- 📜 写作
+- 🎞 视频剪辑
+
 ## 📦 我的作品
 
 - ❤ 夏彦 I See You  |  [GitHub 仓库](https://github.com/haitang000/XiaYan-I-see-you) [效果展示](https://xyicu.haitang000.top)

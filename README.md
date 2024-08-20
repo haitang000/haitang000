@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Hi! 我是 haitang000
 
 <!--
 **haitang000/haitang000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 我正在...
+
+- 📚 学习 JavaScript、Go
+- 🖊 一边做平面设计一边学习前端开发
+- 💻 运营一个 Minecraft 服务器
+
+**etc.**
+
+## 💭 联系我
+- **QQ：** `3603866430`
+- **Twitter：** `[@HaitangNotFun](https://x.com/haitangNotFun)`
+- **BiliBili：** `[海棠但是丢不出视频](https://space.bilibili.com/1073778000)`

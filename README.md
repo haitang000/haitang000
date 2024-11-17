@@ -45,3 +45,9 @@ Here are some ideas to get you started:
 - **QQ：** `3603866430`
 - **Twitter：** [@HaitangNotFun](https://x.com/haitangNotFun)
 - **BiliBili：** [海棠但是丢不出视频](https://space.bilibili.com/1073778000)
+
+## 🥳 战绩
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haitang000&show_icons=true&locale=en&layout=compact" alt="language" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=haitang000&" alt="streak" /></p>

@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## 💭 联系我
 - **QQ：** `3603866430`
 - **Twitter：** [@HaitangNotFun](https://x.com/haitangNotFun)
-- **BiliBili：** [海棠但是丢不出视频](https://space.bilibili.com/1073778000)
+- **BiliBili：** [haitang000](https://space.bilibili.com/1073778000)
 
 ## 🥳 战绩
 

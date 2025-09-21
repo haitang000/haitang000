@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 ## 📦 我的作品
 
-- ❤ 夏彦 I See You  |  [GitHub 仓库](https://github.com/haitang000/XiaYan-I-see-you) [效果展示](https://xyicu.haitang000.top)
-- 📜 IQBoost 电子脱盲文档  |  [GitHub 仓库](https://github.com/haitang000/IQ-Boost---Docs) [效果展示](https://iqboost.fun)
+- ❤ 夏彦 I See You  |  [GitHub 仓库](https://github.com/haitang000/XiaYan-I-see-you) [效果展示](https://xyicu.haitang000.cn)
+- 📜 IQBoost 电子脱盲文档  |  [GitHub 仓库](https://github.com/haitang000/IQ-Boost---Docs)
 
 ## 💭 联系我
 - **QQ：** `3603866430`

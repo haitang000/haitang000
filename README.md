@@ -42,9 +42,14 @@ Here are some ideas to get you started:
 
 ## 📦 我的作品
 
-- 📷 夏彦 I See You  |  [GitHub 仓库](https://github.com/haitang000/XiaYan-I-see-you) [效果展示](https://xyicu.haitang000.cn)
+- 🏠 SayakaAntiCheat  |  [GitHub 仓库](https://github.com/haitang000/sayaka-anticheat) [文档](https://sayaka.haitang000.cn)
+  > 一款适用于 Minecraft 1.20.6+ 版本 Paper 服务端的数据包级反作弊
 - 📊 GravityBench  |  [GitHub 仓库](https://github.com/haitang000/gravity-benchmark-v1)
+  > 一套适用于 2B ~ 14B 参数量 LLM 的基准测试
 - 🤖 Gravity LLM | [官网](https://www.gravitychat.top) [效果展示](https://try.gravitychat.top)
+  > 一款基于 Qwen 模型微调的 LLM
+- 👨‍🌾 Codefarmer | [GitHub 仓库](https://github.com/haitang000/codefarmer)
+  > 一款轻量级 Coding Agent
 
 ## 💭 联系我
 - **QQ：** `3603866430`

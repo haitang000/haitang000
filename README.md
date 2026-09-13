@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! 我是 haitang000</h1>
 <p align="center">
-  一个平平无奇的学生<br />
+  一名普通学生<br />
   <img src="img.png">
 </p>
 
@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 ## 🔭 我正在...
 
-- 📚 学习 <mark>JavaScript、Go</mark>
+- 📚 学习 <mark>Go</mark>
 - 🖊 一边做平面设计一边学习前端开发
+- 🤖 训练一个 LLM
 - 💻 运营一个 Minecraft 服务器
 
 **etc.**
@@ -41,8 +42,9 @@ Here are some ideas to get you started:
 
 ## 📦 我的作品
 
-- ❤ 夏彦 I See You  |  [GitHub 仓库](https://github.com/haitang000/XiaYan-I-see-you) [效果展示](https://xyicu.haitang000.cn)
-- 📜 IQBoost 电子脱盲文档  |  [GitHub 仓库](https://github.com/haitang000/IQ-Boost---Docs)
+- 📷 夏彦 I See You  |  [GitHub 仓库](https://github.com/haitang000/XiaYan-I-see-you) [效果展示](https://xyicu.haitang000.cn)
+- 📊 GravityBench  |  [GitHub 仓库](https://github.com/haitang000/gravity-benchmark-v1)
+- 🤖 Gravity LLM | [官网](https://www.gravitychat.top) [效果展示](https://try.gravitychat.top)
 
 ## 💭 联系我
 - **QQ：** `3603866430`

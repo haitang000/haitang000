@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ## 🔭 我正在...
 
 - 📚 学习 <mark>Go</mark>
-- 🖊 一边做平面设计一边学习前端开发
 - 🤖 训练一个 LLM
 - 💻 运营一个 Minecraft 服务器
 
@@ -36,8 +35,6 @@ Here are some ideas to get you started:
 - 🖊 平面设计
 - 📱 UI/UX 设计
 - 💻 前端开发
-- 🤔 游戏策划
-- 🎞 视频剪辑
 - 📄 文档编辑
 
 ## 📦 我的作品

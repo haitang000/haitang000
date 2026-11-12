@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 ## 🥳 战绩
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haitang000&show_icons=true&locale=en&layout=compact" alt="language" /></p>
+[![Tokens Stats](https://tokens.ci/api/embed/haitang000/svg?template=minimal&graph=1&today=1&tokens=full&cost=full)](https://tokens.ci/u/haitang000)
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=haitang000&" alt="streak" /></p>
